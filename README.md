@@ -21,4 +21,7 @@ Things you may want to cover:
 
 * Deployment instructions
 
-* ...
+
+### Link to the App
+
+[Click Here](https://immense-dusk-90898.herokuapp.com/)
